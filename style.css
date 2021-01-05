@@ -1,0 +1,78 @@
+.Profile {
+    width: 600px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+#kaikini {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: #FFFFFF;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#fcba03 0%, #ffffff 90%, #298a06 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9
+}
+
+h1 {
+
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: Orbitron;
+    font-weight: 300;
+    color: darkblue;
+}
+
+#name {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: Redressed;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: Dancing Script;
+    color: darkblue;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+h3 {
+    font-family: Sansita Swashed;
+}
+
+#bot {
+    background-color: orangered;
+}
+
+#app {
+    background-color: burlywood;
+}
+
+img:hover {
+    transform: scale(o.9);
+}
+
+#game {
+    background-color: yellow;
+}
